@@ -6,7 +6,7 @@ using OnlineShoePortal.PageObjects;
 namespace OnlineShoePortal
 {
     [TestClass]
-    public class TS01_UserRegistration
+    public class TS01_User_Registration
     {
 
 
